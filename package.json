@@ -1,0 +1,24 @@
+{
+  "name": "eddiechinesechess",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "1.2.1",
+    "nuxt": "^2.15.0",
+    "nuxt-sass-resources-loader": "2.0.5",
+    "optimize-css-assets-webpack-plugin": "6.0.1",
+    "sass": "1.18.0",
+    "sass-loader": "10.1.1",
+    "sass-resources-loader": "2.2.5"
+  },
+  "keywords": []
+}
