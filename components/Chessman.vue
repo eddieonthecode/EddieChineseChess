@@ -14,6 +14,7 @@
       <img
         v-if="name"
         class="chessman__img position-relative"
+        :class="(name && name.includes('Red')) ? 'chessman__img-red' : 'chessman__img-black'"
         :src="urlImage"
         alt="Black rock"
         width="100%"
@@ -131,6 +132,11 @@ export default {
     }
     .chessman__img {
       z-index: 100;
+      &.chessman__img-red {
+        @media screen and (max-width: 600px) {
+          transform: rotate(180deg);
+        }
+      }
     }
     .chessman__suggest {
       width: min(3vh, 3vw);
