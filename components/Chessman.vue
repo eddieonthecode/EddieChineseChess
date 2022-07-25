@@ -51,52 +51,52 @@ export default {
       switch (this.name) {
         // Red
         case EnumChessman.Red.General:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/rg_osnJZddnk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146318265";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/rg_osnJZddnk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146318265";
         case EnumChessman.Red.Advisor.One:
         case EnumChessman.Red.Advisor.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/ra_DmpF6GA5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317022";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/ra_DmpF6GA5E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317022";
         case EnumChessman.Red.Elephant.One:
         case EnumChessman.Red.Elephant.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/re_xpkQp7iRD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317961";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/re_xpkQp7iRD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317961";
         case EnumChessman.Red.Horse.One:
         case EnumChessman.Red.Horse.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/rk_4OL6opYlh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146318593";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/rk_4OL6opYlh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146318593";
         case EnumChessman.Red.Chariot.One:
         case EnumChessman.Red.Chariot.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/rch_tQW8SUVcg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317511";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/rch_tQW8SUVcg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317511";
         case EnumChessman.Red.Cannon.One:
         case EnumChessman.Red.Cannon.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/rc_48TSGmOmo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317353";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/rc_48TSGmOmo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146317353";
         case EnumChessman.Red.Soldier.One:
         case EnumChessman.Red.Soldier.Two:
         case EnumChessman.Red.Soldier.Three:
         case EnumChessman.Red.Soldier.Four:
         case EnumChessman.Red.Soldier.Five:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/rs_AcEEjS9BJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146319128";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/rs_AcEEjS9BJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146319128";
         // Black
         case EnumChessman.Black.General:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/bg_W-Lta4EAk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146315043";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/bg_W-Lta4EAk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146315043";
         case EnumChessman.Black.Advisor.One:
         case EnumChessman.Black.Advisor.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/ba_bhNL_NHbz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314354";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/ba_bhNL_NHbz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314354";
         case EnumChessman.Black.Elephant.One:
         case EnumChessman.Black.Elephant.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/be_0spAWFM7F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314703";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/be_0spAWFM7F.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314703";
         case EnumChessman.Black.Horse.One:
         case EnumChessman.Black.Horse.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/bk_3BLDFlsiX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146315606";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/bk_3BLDFlsiX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146315606";
         case EnumChessman.Black.Chariot.One:
         case EnumChessman.Black.Chariot.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/bch_aAWy6T9rH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314401";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/bch_aAWy6T9rH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314401";
         case EnumChessman.Black.Cannon.One:
         case EnumChessman.Black.Cannon.Two:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/bc_5mm5l3PEF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314384";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/bc_5mm5l3PEF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146314384";
         case EnumChessman.Black.Soldier.One:
         case EnumChessman.Black.Soldier.Two:
         case EnumChessman.Black.Soldier.Three:
         case EnumChessman.Black.Soldier.Four:
         case EnumChessman.Black.Soldier.Five:
-          return "https://ik.imagekit.io/uvn3cxjawn6/Chinese_chessman/bs_GKGFgPPPN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146316333";
+          return "https://ik.imagekit.io/uvn3cxjawn6/Production/Chinese_chessman/bs_GKGFgPPPN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652146316333";
         default:
           return "";
       }
